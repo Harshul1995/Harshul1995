@@ -13,3 +13,9 @@ I’m an IT professional with expertise in networking, system administration, an
 
 ### 📫 Contact Me
 [Portfolio](https://Harshul1995.github.io) | [LinkedIn](https://linkedin.com/in/harshul-shukla-37124812b) | [Email](mailto:harshul01shukla@yahoo.com)
+
+  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshul1995&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+
+<a href="https://github.com/Harshul1995/github-readme-stats"><img alt="Harshul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshul1995&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
