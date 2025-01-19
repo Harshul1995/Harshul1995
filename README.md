@@ -12,7 +12,7 @@ I’m an IT professional with expertise in networking, system administration, an
 - **Soft Skills:** Communication, Team Collaboration, Problem-Solving, Multilingualism (English, Hindi, Gujarati, Punjabi, Sanskrit, Japanese, Spanish ).  
 
 ### 📫 Contact Me
-[Portfolio](https://Harshul1995.github.io) | [LinkedIn](https://linkedin.com/in/harshul-shukla-37124812b) | [Email](mailto:harshul01shukla@yahoo.com)
+[Portfolio](https://Harshul.github.io) | [LinkedIn](https://linkedin.com/in/harshul-shukla-37124812b) | [Email](mailto:harshul01shukla@yahoo.com)
 
   <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
