@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Harshul Shukla  
-🌐 [Portfolio Website](https://Harshul.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/harshul-shukla-37124812b) | 📧 [Email](mailto:harshul01shukla@yahoo.com)  
+🌐 [Portfolio Website](https://Harshul1995.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/harshul-shukla-37124812b) | 📧 [Email](mailto:harshul01shukla@yahoo.com)  
 
 ### 🚀 About Me
 
