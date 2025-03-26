@@ -7,41 +7,41 @@ I’m an IT professional with expertise in Networking, CyberSecurity, System Adm
 
 ### 🛠️ Skills
 
-• **Protocols:** DHCP, ARP, DNS, FTP, UDP, SSH, SSL, HTTPS, VPN(IPSec), OSPF, BGP, EIGRP, RIP, LACP, MPLS, STP, TCP/IP, SMTP, SNMP, RADIUS, TACACS+
+- **Protocols:** DHCP, ARP, DNS, FTP, UDP, SSH, SSL, HTTPS, VPN(IPSec), OSPF, BGP, EIGRP, RIP, LACP, MPLS, STP, TCP/IP, SMTP, SNMP, RADIUS, TACACS+
 
-• **Network Configuration:** VLAN, IP Addressing, Subnetting, NAT, VPN Setup, QoS Configuration
+- **Network Configuration:** VLAN, IP Addressing, Subnetting, NAT, VPN Setup, QoS Configuration
 
-• **Routing & Security:** Static-Dynamic Routing, ACLConfiguration, Firewall (Palo Alto, Fortinet, Cisco), Security Policies, Traffic Segmentation and Filtering
+- **Routing & Security:** Static-Dynamic Routing, ACLConfiguration, Firewall (Palo Alto, Fortinet, Cisco), Security Policies, Traffic Segmentation and Filtering
 
-• **Cybersecurity Tools:** SIEM Solutions (Splunk, Elastic SIEM), VPN Tunneling, IDS/IPS, EndpointProtection (Defender), Log Management & Analysis
+- **Cybersecurity Tools:** SIEM Solutions (Splunk, Elastic SIEM), VPN Tunneling, IDS/IPS, EndpointProtection (Defender), Log Management & Analysis
 
-• **Threat Management:** Vulnerability Scanning(Nessus, OpenVAS), Penetration Testing, Risk Assessment, Incident Response
+- **Threat Management:** Vulnerability Scanning(Nessus, OpenVAS), Penetration Testing, Risk Assessment, Incident Response
 
-• **Server Monitoring Tools:** SolarWinds, Zabbix
+- **Server Monitoring Tools:** SolarWinds, Zabbix
 
-• **System Administration:** AD, LDAP, GPO, RDS, DNS Management, Failover Clustering
+- **System Administration:** AD, LDAP, GPO, RDS, DNS Management, Failover Clustering
 
-• **Network Tools:** Wireshark, Nmap,
+- **Network Tools:** Wireshark, Nmap,
 
-• **Operating System Management:** Windows Server, macOS, Linux Server (Ubuntu, Redhat, Kali), ChromeOS, Office365
+- **Operating System Management:** Windows Server, macOS, Linux Server (Ubuntu, Redhat, Kali), ChromeOS, Office365
 
-• **Helpdesk & IT Support:** ITSM Ticketing (Zammad, OTRS), SLA, Escalation Resolution
+- **Helpdesk & IT Support:** ITSM Ticketing (Zammad, OTRS), SLA, Escalation Resolution
 
-• **Trouble Shooting:** Routers, Switches, Servers, Firewalls, Access Points, Printers, Projectors, PC
+- **Trouble Shooting:** Routers, Switches, Servers, Firewalls, Access Points, Printers, Projectors, PC
 
-• **Languages:** PowerShell, Bash, C#, C++, SQL
+- **Languages:** PowerShell, Bash, C#, C++, SQL
 
-• **Database Management:** MySQL, MongoDB
+- **Database Management:** MySQL, MongoDB
 
-• **Virtualization:** VMware, Hyper-V, VirtualBox
+- **Virtualization:** VMware, Hyper-V, VirtualBox
 
-• **Web Servers:** Nginx, Apache
+- **Web Servers:** Nginx, Apache
 
-• **Collaboration Tools:** Rocket.Chat, Mattermost
+- **Collaboration Tools:** Rocket.Chat, Mattermost
 
-• **Frameworks:** Asp.Net, VB.Net, Adobe Creative Suite.
+- **Frameworks:** Asp.Net, VB.Net, Adobe Creative Suite.
 
-• **Web Development:** HTML5, CSS, JavaScript, Responsive Design. 
+- **Web Development:** HTML5, CSS, JavaScript, Responsive Design. 
 
 - **Soft Skills:** Communication, Team Collaboration, Problem-Solving, Multilingualism (English, Hindi, Gujarati, Punjabi, Sanskrit, Japanese, Spanish ).  
 
